@@ -3,7 +3,7 @@ PREFIX = '/video/qmusicnl'
 ICON = 'icon-default.jpg'
 ART = 'art-default.jpg'
 
-STREAM_URL = 'http://ooyalahd2-f.akamaihd.net/i/depers01_delivery@380042/master.m3u8'
+STREAM_URL = 'http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8'
 
 ####################################################################################################
 def Start():
